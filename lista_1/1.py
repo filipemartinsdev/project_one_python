@@ -14,6 +14,9 @@ print(checkNumber(-10))
 print(checkNumber(None))
 print(checkNumber("10"))
 
+# Mudanças recomendadas:
+# - Função isinstance(value, type) para checagem de tipo;
+# - Uso de else ao fim do algoritmo;
 
 
 
