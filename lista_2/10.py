@@ -8,3 +8,6 @@ def media(*args):
         count += 1
     output = output / count
     return output
+
+print(media(6, 6, 6))
+print(media(6, -6, 10))

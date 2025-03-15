@@ -1,5 +1,4 @@
-# Algoritmo:
-# - imprimir os numeros de 1 a 10 com laço FOR
+# Escreva um programa que imprima os números de 1 a 10 usando um laço `for`.
 
 def printSequence(n):
     count = 0

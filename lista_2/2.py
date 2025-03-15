@@ -1,5 +1,4 @@
-# Algoritmo
-# - calcular a soma de 1 a 100 com laço FOR
+# Escreva um programa que calcule e imprima a soma dos números de 1 a 100 usando um laço `for`.
 
 def printSumSequence(n):
     output = 0
@@ -8,3 +7,5 @@ def printSumSequence(n):
     print(output)
     
 printSumSequence(100)
+
+
