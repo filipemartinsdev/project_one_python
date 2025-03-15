@@ -1,0 +1,1 @@
+# Escreva uma função que receba um número \( N \) e retorne uma lista com a sequência de Fibonacci até \( N \). A função deve ser modular para ser usada em diferentes contextos onde seja necessário gerar a sequência de Fibonacci.
