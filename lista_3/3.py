@@ -8,3 +8,8 @@ def factorial(n):
         output = output * count        
         count += 1
     return output
+print(factorial(1))
+print(factorial(2))
+print(factorial(3))
+print(factorial(4))
+print(factorial(5))

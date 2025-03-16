@@ -10,4 +10,5 @@ def media(*args):
     return output
 
 print(media(6, 6, 6))
-print(media(6, -6, 10))
+print(media(3, 6, 9))
+print(media(4, 8, 24))

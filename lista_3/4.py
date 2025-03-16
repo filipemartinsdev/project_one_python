@@ -11,3 +11,7 @@ def biggestN(*numbers):
             output = item
         i += 1
     return output
+print(biggestN(1, 5, 3, 4))
+print(biggestN(-1, -5, -3, -4))
+print(biggestN(-0, 1, 3.14, 0.5))
+

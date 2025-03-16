@@ -4,3 +4,6 @@ def isEven(n):
     if(type(n) != int and type(n) != float): return None
     if(n % 2 == 0): return(True)
     else: return False
+print(isEven(2))
+print(isEven(4))
+print(isEven(67))

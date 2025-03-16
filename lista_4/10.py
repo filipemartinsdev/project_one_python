@@ -10,5 +10,5 @@ def productList(listA, listB):
         output.append(listA[i] * listB[i])
         i += 1
     return output
-
 print(productList([1, 2, 3], [1, 2, 3]))
+print(productList([1, 2, 3], [4, 5, 6]))

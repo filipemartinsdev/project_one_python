@@ -13,3 +13,5 @@ def searchBiggest(list):
     return output
 
 print(searchBiggest([-50, -1, 0]))
+print(searchBiggest([0, 0, 0]))
+print(searchBiggest([1, 2, 0]))

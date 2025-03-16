@@ -14,4 +14,8 @@ def checkPrimo(n):
         return False
     else: return True
     
+print(checkPrimo(0))
+print(checkPrimo(3))
+print(checkPrimo(10))
+print(checkPrimo(253))
     

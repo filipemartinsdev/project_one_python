@@ -7,3 +7,5 @@ def sumList(list):
     return output
 
 print(sumList([1, 2, 3]))
+print(sumList([-2, 1, 1]))
+print(sumList([-100, -100 ]))

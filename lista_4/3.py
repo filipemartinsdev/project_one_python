@@ -9,9 +9,6 @@ def searchCountList(list, item):
         i += 1
     return output
 
-print(
-    searchCountList(
-        [1, 2, "eu", "tu", "eu"],
-        "eu"
-    )
-)
+print(searchCountList([1, 2, "python", "python", "java"], "python"))
+print(searchCountList([1, 2, 3], "python"))
+print(searchCountList([0, None, False], None))

@@ -10,4 +10,4 @@ def evenList(input):
     return output 
 
 myList = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0, None, True, False]
-print(evenList(myList))       
+print(evenList(myList))

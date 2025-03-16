@@ -2,7 +2,7 @@
 
 def invertStr(input):
     if(type(input) != str):
-        return TypeError
+        raise TypeError("Parâmetro deve ser tipo String")
     charList = []
     
     for char in input:

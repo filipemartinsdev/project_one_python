@@ -5,3 +5,7 @@
 def calcArea(R):
     output = 3.14 * (R * R)
     return output
+print(calcArea(3))
+print(calcArea(6))
+print(calcArea(12))
+

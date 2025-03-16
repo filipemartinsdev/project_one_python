@@ -20,3 +20,7 @@ def countWords(input):
             count += 1
         last = i
     return count
+
+print(countWords("python, HTML"))
+print(countWords("python git"))
+print(countWords("git"))

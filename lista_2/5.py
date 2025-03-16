@@ -6,3 +6,6 @@ def vowalCount(word):
         if(char == 'a' or char == 'e' or char == 'i' or char == 'o' or char == 'u'):
             count += 1
     return count
+print(vowalCount("python"))
+print(vowalCount("HTML"))
+print(vowalCount("Java Script"))

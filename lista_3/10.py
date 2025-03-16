@@ -14,3 +14,7 @@ def handleIMC(IMC):
     elif(IMC < 30):
         return "sobrepeso"
     else: return "obesidade"
+print(handleIMC(calcIMC(54, 1.72)))
+print(handleIMC(calcIMC(60, 1.80)))
+print(handleIMC(calcIMC(70, 1.65)))
+print(handleIMC(calcIMC(90, 1.65)))
